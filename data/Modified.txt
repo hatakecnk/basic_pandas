@@ -1,0 +1,802 @@
+#/Name/Type 1/Type 2/HP/Attack/Defense/Sp. Atk/Sp. Def/Speed/Generation/Legendary
+1.0/Bulbasaur/Grass/Poison/45.0/49.0/49.0/65.0/65.0/45.0/1.0/False
+2.0/Ivysaur/Grass/Poison/60.0/62.0/63.0/80.0/80.0/60.0/1.0/False
+3.0/Venusaur/Grass/Poison/80.0/82.0/83.0/100.0/100.0/80.0/1.0/False
+3.0/VenusaurMega Venusaur/Grass/Poison/80.0/100.0/123.0/122.0/120.0/80.0/1.0/False
+4.0/Charmander/Fire//39.0/52.0/43.0/60.0/50.0/65.0/1.0/False
+5.0/Charmeleon/Fire//58.0/64.0/58.0/80.0/65.0/80.0/1.0/False
+6.0/Charizard/Fire/Flying/78.0/84.0/78.0/109.0/85.0/100.0/1.0/False
+6.0/CharizardMega Charizard X/Fire/Dragon/78.0/130.0/111.0/130.0/85.0/100.0/1.0/False
+6.0/CharizardMega Charizard Y/Fire/Flying/78.0/104.0/78.0/159.0/115.0/100.0/1.0/False
+7.0/Squirtle/Water//44.0/48.0/65.0/50.0/64.0/43.0/1.0/False
+8.0/Wartortle/Water//59.0/63.0/80.0/65.0/80.0/58.0/1.0/False
+9.0/Blastoise/Water//79.0/83.0/100.0/85.0/105.0/78.0/1.0/False
+9.0/BlastoiseMega Blastoise/Water//79.0/103.0/120.0/135.0/115.0/78.0/1.0/False
+10.0/Caterpie/Bug//45.0/30.0/35.0/20.0/20.0/45.0/1.0/False
+11.0/Metapod/Bug//50.0/20.0/55.0/25.0/25.0/30.0/1.0/False
+12.0/Butterfree/Bug/Flying/60.0/45.0/50.0/90.0/80.0/70.0/1.0/False
+13.0/Weedle/Bug/Poison/40.0/35.0/30.0/20.0/20.0/50.0/1.0/False
+14.0/Kakuna/Bug/Poison/45.0/25.0/50.0/25.0/25.0/35.0/1.0/False
+15.0/Beedrill/Bug/Poison/65.0/90.0/40.0/45.0/80.0/75.0/1.0/False
+15.0/BeedrillMega Beedrill/Bug/Poison/65.0/150.0/40.0/15.0/80.0/145.0/1.0/False
+16.0/Pidgey/Normal/Flying/40.0/45.0/40.0/35.0/35.0/56.0/1.0/False
+17.0/Pidgeotto/Normal/Flying/63.0/60.0/55.0/50.0/50.0/71.0/1.0/False
+18.0/Pidgeot/Normal/Flying/83.0/80.0/75.0/70.0/70.0/101.0/1.0/False
+18.0/PidgeotMega Pidgeot/Normal/Flying/83.0/80.0/80.0/135.0/80.0/121.0/1.0/False
+19.0/Rattata/Normal//30.0/56.0/35.0/25.0/35.0/72.0/1.0/False
+20.0/Raticate/Normal//55.0/81.0/60.0/50.0/70.0/97.0/1.0/False
+21.0/Spearow/Normal/Flying/40.0/60.0/30.0/31.0/31.0/70.0/1.0/False
+22.0/Fearow/Normal/Flying/65.0/90.0/65.0/61.0/61.0/100.0/1.0/False
+23.0/Ekans/Poison//35.0/60.0/44.0/40.0/54.0/55.0/1.0/False
+24.0/Arbok/Poison//60.0/85.0/69.0/65.0/79.0/80.0/1.0/False
+25.0/Pikachu/Electric//35.0/55.0/40.0/50.0/50.0/90.0/1.0/False
+26.0/Raichu/Electric//60.0/90.0/55.0/90.0/80.0/110.0/1.0/False
+27.0/Sandshrew/Ground//50.0/75.0/85.0/20.0/30.0/40.0/1.0/False
+28.0/Sandslash/Ground//75.0/100.0/110.0/45.0/55.0/65.0/1.0/False
+29.0/Nidoran (Female)/Poison//55.0/47.0/52.0/40.0/40.0/41.0/1.0/False
+30.0/Nidorina/Poison//70.0/62.0/67.0/55.0/55.0/56.0/1.0/False
+31.0/Nidoqueen/Poison/Ground/90.0/92.0/87.0/75.0/85.0/76.0/1.0/False
+32.0/Nidoran (Male)/Poison//46.0/57.0/40.0/40.0/40.0/50.0/1.0/False
+33.0/Nidorino/Poison//61.0/72.0/57.0/55.0/55.0/65.0/1.0/False
+34.0/Nidoking/Poison/Ground/81.0/102.0/77.0/85.0/75.0/85.0/1.0/False
+35.0/Clefairy/Fairy//70.0/45.0/48.0/60.0/65.0/35.0/1.0/False
+36.0/Clefable/Fairy//95.0/70.0/73.0/95.0/90.0/60.0/1.0/False
+37.0/Vulpix/Fire//38.0/41.0/40.0/50.0/65.0/65.0/1.0/False
+38.0/Ninetales/Fire//73.0/76.0/75.0/81.0/100.0/100.0/1.0/False
+39.0/Jigglypuff/Normal/Fairy/115.0/45.0/20.0/45.0/25.0/20.0/1.0/False
+40.0/Wigglytuff/Normal/Fairy/140.0/70.0/45.0/85.0/50.0/45.0/1.0/False
+41.0/Zubat/Poison/Flying/40.0/45.0/35.0/30.0/40.0/55.0/1.0/False
+42.0/Golbat/Poison/Flying/75.0/80.0/70.0/65.0/75.0/90.0/1.0/False
+43.0/Oddish/Grass/Poison/45.0/50.0/55.0/75.0/65.0/30.0/1.0/False
+44.0/Gloom/Grass/Poison/60.0/65.0/70.0/85.0/75.0/40.0/1.0/False
+45.0/Vileplume/Grass/Poison/75.0/80.0/85.0/110.0/90.0/50.0/1.0/False
+46.0/Paras/Bug/Grass/35.0/70.0/55.0/45.0/55.0/25.0/1.0/False
+47.0/Parasect/Bug/Grass/60.0/95.0/80.0/60.0/80.0/30.0/1.0/False
+48.0/Venonat/Bug/Poison/60.0/55.0/50.0/40.0/55.0/45.0/1.0/False
+49.0/Venomoth/Bug/Poison/70.0/65.0/60.0/90.0/75.0/90.0/1.0/False
+50.0/Diglett/Ground//10.0/55.0/25.0/35.0/45.0/95.0/1.0/False
+51.0/Dugtrio/Ground//35.0/80.0/50.0/50.0/70.0/120.0/1.0/False
+52.0/Meowth/Normal//40.0/45.0/35.0/40.0/40.0/90.0/1.0/False
+53.0/Persian/Normal//65.0/70.0/60.0/65.0/65.0/115.0/1.0/False
+54.0/Psyduck/Water//50.0/52.0/48.0/65.0/50.0/55.0/1.0/False
+55.0/Golduck/Water//80.0/82.0/78.0/95.0/80.0/85.0/1.0/False
+56.0/Mankey/Fighting//40.0/80.0/35.0/35.0/45.0/70.0/1.0/False
+57.0/Primeape/Fighting//65.0/105.0/60.0/60.0/70.0/95.0/1.0/False
+58.0/Growlithe/Fire//55.0/70.0/45.0/70.0/50.0/60.0/1.0/False
+59.0/Arcanine/Fire//90.0/110.0/80.0/100.0/80.0/95.0/1.0/False
+60.0/Poliwag/Water//40.0/50.0/40.0/40.0/40.0/90.0/1.0/False
+61.0/Poliwhirl/Water//65.0/65.0/65.0/50.0/50.0/90.0/1.0/False
+62.0/Poliwrath/Water/Fighting/90.0/95.0/95.0/70.0/90.0/70.0/1.0/False
+63.0/Abra/Psychic//25.0/20.0/15.0/105.0/55.0/90.0/1.0/False
+64.0/Kadabra/Psychic//40.0/35.0/30.0/120.0/70.0/105.0/1.0/False
+65.0/Alakazam/Psychic//55.0/50.0/45.0/135.0/95.0/120.0/1.0/False
+65.0/AlakazamMega Alakazam/Psychic//55.0/50.0/65.0/175.0/95.0/150.0/1.0/False
+66.0/Machop/Fighting//70.0/80.0/50.0/35.0/35.0/35.0/1.0/False
+67.0/Machoke/Fighting//80.0/100.0/70.0/50.0/60.0/45.0/1.0/False
+68.0/Machamp/Fighting//90.0/130.0/80.0/65.0/85.0/55.0/1.0/False
+69.0/Bellsprout/Grass/Poison/50.0/75.0/35.0/70.0/30.0/40.0/1.0/False
+70.0/Weepinbell/Grass/Poison/65.0/90.0/50.0/85.0/45.0/55.0/1.0/False
+71.0/Victreebel/Grass/Poison/80.0/105.0/65.0/100.0/70.0/70.0/1.0/False
+72.0/Tentacool/Water/Poison/40.0/40.0/35.0/50.0/100.0/70.0/1.0/False
+73.0/Tentacruel/Water/Poison/80.0/70.0/65.0/80.0/120.0/100.0/1.0/False
+74.0/Geodude/Rock/Ground/40.0/80.0/100.0/30.0/30.0/20.0/1.0/False
+75.0/Graveler/Rock/Ground/55.0/95.0/115.0/45.0/45.0/35.0/1.0/False
+76.0/Golem/Rock/Ground/80.0/120.0/130.0/55.0/65.0/45.0/1.0/False
+77.0/Ponyta/Fire//50.0/85.0/55.0/65.0/65.0/90.0/1.0/False
+78.0/Rapidash/Fire//65.0/100.0/70.0/80.0/80.0/105.0/1.0/False
+79.0/Slowpoke/Water/Psychic/90.0/65.0/65.0/40.0/40.0/15.0/1.0/False
+80.0/Slowbro/Water/Psychic/95.0/75.0/110.0/100.0/80.0/30.0/1.0/False
+80.0/SlowbroMega Slowbro/Water/Psychic/95.0/75.0/180.0/130.0/80.0/30.0/1.0/False
+81.0/Magnemite/Electric/Steel/25.0/35.0/70.0/95.0/55.0/45.0/1.0/False
+82.0/Magneton/Electric/Steel/50.0/60.0/95.0/120.0/70.0/70.0/1.0/False
+83.0/Farfetch'd/Normal/Flying/52.0/65.0/55.0/58.0/62.0/60.0/1.0/False
+84.0/Doduo/Normal/Flying/35.0/85.0/45.0/35.0/35.0/75.0/1.0/False
+85.0/Dodrio/Normal/Flying/60.0/110.0/70.0/60.0/60.0/100.0/1.0/False
+86.0/Seel/Water//65.0/45.0/55.0/45.0/70.0/45.0/1.0/False
+87.0/Dewgong/Water/Ice/90.0/70.0/80.0/70.0/95.0/70.0/1.0/False
+88.0/Grimer/Poison//80.0/80.0/50.0/40.0/50.0/25.0/1.0/False
+89.0/Muk/Poison//105.0/105.0/75.0/65.0/100.0/50.0/1.0/False
+90.0/Shellder/Water//30.0/65.0/100.0/45.0/25.0/40.0/1.0/False
+91.0/Cloyster/Water/Ice/50.0/95.0/180.0/85.0/45.0/70.0/1.0/False
+92.0/Gastly/Ghost/Poison/30.0/35.0/30.0/100.0/35.0/80.0/1.0/False
+93.0/Haunter/Ghost/Poison/45.0/50.0/45.0/115.0/55.0/95.0/1.0/False
+94.0/Gengar/Ghost/Poison/60.0/65.0/60.0/130.0/75.0/110.0/1.0/False
+94.0/GengarMega Gengar/Ghost/Poison/60.0/65.0/80.0/170.0/95.0/130.0/1.0/False
+95.0/Onix/Rock/Ground/35.0/45.0/160.0/30.0/45.0/70.0/1.0/False
+96.0/Drowzee/Psychic//60.0/48.0/45.0/43.0/90.0/42.0/1.0/False
+97.0/Hypno/Psychic//85.0/73.0/70.0/73.0/115.0/67.0/1.0/False
+98.0/Krabby/Water//30.0/105.0/90.0/25.0/25.0/50.0/1.0/False
+99.0/Kingler/Water//55.0/130.0/115.0/50.0/50.0/75.0/1.0/False
+100.0/Voltorb/Electric//40.0/30.0/50.0/55.0/55.0/100.0/1.0/False
+101.0/Electrode/Electric//60.0/50.0/70.0/80.0/80.0/140.0/1.0/False
+102.0/Exeggcute/Grass/Psychic/60.0/40.0/80.0/60.0/45.0/40.0/1.0/False
+103.0/Exeggutor/Grass/Psychic/95.0/95.0/85.0/125.0/65.0/55.0/1.0/False
+104.0/Cubone/Ground//50.0/50.0/95.0/40.0/50.0/35.0/1.0/False
+105.0/Marowak/Ground//60.0/80.0/110.0/50.0/80.0/45.0/1.0/False
+106.0/Hitmonlee/Fighting//50.0/120.0/53.0/35.0/110.0/87.0/1.0/False
+107.0/Hitmonchan/Fighting//50.0/105.0/79.0/35.0/110.0/76.0/1.0/False
+108.0/Lickitung/Normal//90.0/55.0/75.0/60.0/75.0/30.0/1.0/False
+109.0/Koffing/Poison//40.0/65.0/95.0/60.0/45.0/35.0/1.0/False
+110.0/Weezing/Poison//65.0/90.0/120.0/85.0/70.0/60.0/1.0/False
+111.0/Rhyhorn/Ground/Rock/80.0/85.0/95.0/30.0/30.0/25.0/1.0/False
+112.0/Rhydon/Ground/Rock/105.0/130.0/120.0/45.0/45.0/40.0/1.0/False
+113.0/Chansey/Normal//250.0/5.0/5.0/35.0/105.0/50.0/1.0/False
+114.0/Tangela/Grass//65.0/55.0/115.0/100.0/40.0/60.0/1.0/False
+115.0/Kangaskhan/Normal//105.0/95.0/80.0/40.0/80.0/90.0/1.0/False
+115.0/KangaskhanMega Kangaskhan/Normal//105.0/125.0/100.0/60.0/100.0/100.0/1.0/False
+116.0/Horsea/Water//30.0/40.0/70.0/70.0/25.0/60.0/1.0/False
+117.0/Seadra/Water//55.0/65.0/95.0/95.0/45.0/85.0/1.0/False
+118.0/Goldeen/Water//45.0/67.0/60.0/35.0/50.0/63.0/1.0/False
+119.0/Seaking/Water//80.0/92.0/65.0/65.0/80.0/68.0/1.0/False
+120.0/Staryu/Water//30.0/45.0/55.0/70.0/55.0/85.0/1.0/False
+121.0/Starmie/Water/Psychic/60.0/75.0/85.0/100.0/85.0/115.0/1.0/False
+122.0/Mr. Mime/Psychic/Fairy/40.0/45.0/65.0/100.0/120.0/90.0/1.0/False
+123.0/Scyther/Bug/Flying/70.0/110.0/80.0/55.0/80.0/105.0/1.0/False
+124.0/Jynx/Ice/Psychic/65.0/50.0/35.0/115.0/95.0/95.0/1.0/False
+125.0/Electabuzz/Electric//65.0/83.0/57.0/95.0/85.0/105.0/1.0/False
+126.0/Magmar/Fire//65.0/95.0/57.0/100.0/85.0/93.0/1.0/False
+127.0/Pinsir/Bug//65.0/125.0/100.0/55.0/70.0/85.0/1.0/False
+127.0/PinsirMega Pinsir/Bug/Flying/65.0/155.0/120.0/65.0/90.0/105.0/1.0/False
+128.0/Tauros/Normal//75.0/100.0/95.0/40.0/70.0/110.0/1.0/False
+129.0/Magikarp/Water//20.0/10.0/55.0/15.0/20.0/80.0/1.0/False
+130.0/Gyarados/Water/Flying/95.0/125.0/79.0/60.0/100.0/81.0/1.0/False
+130.0/GyaradosMega Gyarados/Water/Dark/95.0/155.0/109.0/70.0/130.0/81.0/1.0/False
+131.0/Lapras/Water/Ice/130.0/85.0/80.0/85.0/95.0/60.0/1.0/False
+132.0/Ditto/Normal//48.0/48.0/48.0/48.0/48.0/48.0/1.0/False
+133.0/Eevee/Normal//55.0/55.0/50.0/45.0/65.0/55.0/1.0/False
+134.0/Vaporeon/Water//130.0/65.0/60.0/110.0/95.0/65.0/1.0/False
+135.0/Jolteon/Electric//65.0/65.0/60.0/110.0/95.0/130.0/1.0/False
+136.0/Flareon/Fire//65.0/130.0/60.0/95.0/110.0/65.0/1.0/False
+137.0/Porygon/Normal//65.0/60.0/70.0/85.0/75.0/40.0/1.0/False
+138.0/Omanyte/Rock/Water/35.0/40.0/100.0/90.0/55.0/35.0/1.0/False
+139.0/Omastar/Rock/Water/70.0/60.0/125.0/115.0/70.0/55.0/1.0/False
+140.0/Kabuto/Rock/Water/30.0/80.0/90.0/55.0/45.0/55.0/1.0/False
+141.0/Kabutops/Rock/Water/60.0/115.0/105.0/65.0/70.0/80.0/1.0/False
+142.0/Aerodactyl/Rock/Flying/80.0/105.0/65.0/60.0/75.0/130.0/1.0/False
+142.0/AerodactylMega Aerodactyl/Rock/Flying/80.0/135.0/85.0/70.0/95.0/150.0/1.0/False
+143.0/Snorlax/Normal//160.0/110.0/65.0/65.0/110.0/30.0/1.0/False
+144.0/Articuno/Ice/Flying/90.0/85.0/100.0/95.0/125.0/85.0/1.0/True
+145.0/Zapdos/Electric/Flying/90.0/90.0/85.0/125.0/90.0/100.0/1.0/True
+146.0/Moltres/Fire/Flying/90.0/100.0/90.0/125.0/85.0/90.0/1.0/True
+147.0/Dratini/Dragon//41.0/64.0/45.0/50.0/50.0/50.0/1.0/False
+148.0/Dragonair/Dragon//61.0/84.0/65.0/70.0/70.0/70.0/1.0/False
+149.0/Dragonite/Dragon/Flying/91.0/134.0/95.0/100.0/100.0/80.0/1.0/False
+150.0/Mewtwo/Psychic//106.0/110.0/90.0/154.0/90.0/130.0/1.0/True
+150.0/MewtwoMega Mewtwo X/Psychic/Fighting/106.0/190.0/100.0/154.0/100.0/130.0/1.0/True
+150.0/MewtwoMega Mewtwo Y/Psychic//106.0/150.0/70.0/194.0/120.0/140.0/1.0/True
+151.0/Mew/Psychic//100.0/100.0/100.0/100.0/100.0/100.0/1.0/False
+152.0/Chikorita/Grass//45.0/49.0/65.0/49.0/65.0/45.0/2.0/False
+153.0/Bayleef/Grass//60.0/62.0/80.0/63.0/80.0/60.0/2.0/False
+154.0/Meganium/Grass//80.0/82.0/100.0/83.0/100.0/80.0/2.0/False
+155.0/Cyndaquil/Fire//39.0/52.0/43.0/60.0/50.0/65.0/2.0/False
+156.0/Quilava/Fire//58.0/64.0/58.0/80.0/65.0/80.0/2.0/False
+157.0/Typhlosion/Fire//78.0/84.0/78.0/109.0/85.0/100.0/2.0/False
+158.0/Totodile/Water//50.0/65.0/64.0/44.0/48.0/43.0/2.0/False
+159.0/Croconaw/Water//65.0/80.0/80.0/59.0/63.0/58.0/2.0/False
+160.0/Feraligatr/Water//85.0/105.0/100.0/79.0/83.0/78.0/2.0/False
+161.0/Sentret/Normal//35.0/46.0/34.0/35.0/45.0/20.0/2.0/False
+162.0/Furret/Normal//85.0/76.0/64.0/45.0/55.0/90.0/2.0/False
+163.0/Hoothoot/Normal/Flying/60.0/30.0/30.0/36.0/56.0/50.0/2.0/False
+164.0/Noctowl/Normal/Flying/100.0/50.0/50.0/76.0/96.0/70.0/2.0/False
+165.0/Ledyba/Bug/Flying/40.0/20.0/30.0/40.0/80.0/55.0/2.0/False
+166.0/Ledian/Bug/Flying/55.0/35.0/50.0/55.0/110.0/85.0/2.0/False
+167.0/Spinarak/Bug/Poison/40.0/60.0/40.0/40.0/40.0/30.0/2.0/False
+168.0/Ariados/Bug/Poison/70.0/90.0/70.0/60.0/60.0/40.0/2.0/False
+169.0/Crobat/Poison/Flying/85.0/90.0/80.0/70.0/80.0/130.0/2.0/False
+170.0/Chinchou/Water/Electric/75.0/38.0/38.0/56.0/56.0/67.0/2.0/False
+171.0/Lanturn/Water/Electric/125.0/58.0/58.0/76.0/76.0/67.0/2.0/False
+172.0/Pichu/Electric//20.0/40.0/15.0/35.0/35.0/60.0/2.0/False
+173.0/Cleffa/Fairy//50.0/25.0/28.0/45.0/55.0/15.0/2.0/False
+174.0/Igglybuff/Normal/Fairy/90.0/30.0/15.0/40.0/20.0/15.0/2.0/False
+175.0/Togepi/Fairy//35.0/20.0/65.0/40.0/65.0/20.0/2.0/False
+176.0/Togetic/Fairy/Flying/55.0/40.0/85.0/80.0/105.0/40.0/2.0/False
+177.0/Natu/Psychic/Flying/40.0/50.0/45.0/70.0/45.0/70.0/2.0/False
+178.0/Xatu/Psychic/Flying/65.0/75.0/70.0/95.0/70.0/95.0/2.0/False
+179.0/Mareep/Electric//55.0/40.0/40.0/65.0/45.0/35.0/2.0/False
+180.0/Flaaffy/Electric//70.0/55.0/55.0/80.0/60.0/45.0/2.0/False
+181.0/Ampharos/Electric//90.0/75.0/85.0/115.0/90.0/55.0/2.0/False
+181.0/AmpharosMega Ampharos/Electric/Dragon/90.0/95.0/105.0/165.0/110.0/45.0/2.0/False
+182.0/Bellossom/Grass//75.0/80.0/95.0/90.0/100.0/50.0/2.0/False
+183.0/Marill/Water/Fairy/70.0/20.0/50.0/20.0/50.0/40.0/2.0/False
+184.0/Azumarill/Water/Fairy/100.0/50.0/80.0/60.0/80.0/50.0/2.0/False
+185.0/Sudowoodo/Rock//70.0/100.0/115.0/30.0/65.0/30.0/2.0/False
+186.0/Politoed/Water//90.0/75.0/75.0/90.0/100.0/70.0/2.0/False
+187.0/Hoppip/Grass/Flying/35.0/35.0/40.0/35.0/55.0/50.0/2.0/False
+188.0/Skiploom/Grass/Flying/55.0/45.0/50.0/45.0/65.0/80.0/2.0/False
+189.0/Jumpluff/Grass/Flying/75.0/55.0/70.0/55.0/95.0/110.0/2.0/False
+190.0/Aipom/Normal//55.0/70.0/55.0/40.0/55.0/85.0/2.0/False
+191.0/Sunkern/Grass//30.0/30.0/30.0/30.0/30.0/30.0/2.0/False
+192.0/Sunflora/Grass//75.0/75.0/55.0/105.0/85.0/30.0/2.0/False
+193.0/Yanma/Bug/Flying/65.0/65.0/45.0/75.0/45.0/95.0/2.0/False
+194.0/Wooper/Water/Ground/55.0/45.0/45.0/25.0/25.0/15.0/2.0/False
+195.0/Quagsire/Water/Ground/95.0/85.0/85.0/65.0/65.0/35.0/2.0/False
+196.0/Espeon/Psychic//65.0/65.0/60.0/130.0/95.0/110.0/2.0/False
+197.0/Umbreon/Dark//95.0/65.0/110.0/60.0/130.0/65.0/2.0/False
+198.0/Murkrow/Dark/Flying/60.0/85.0/42.0/85.0/42.0/91.0/2.0/False
+199.0/Slowking/Water/Psychic/95.0/75.0/80.0/100.0/110.0/30.0/2.0/False
+200.0/Misdreavus/Ghost//60.0/60.0/60.0/85.0/85.0/85.0/2.0/False
+201.0/Unown/Psychic//48.0/72.0/48.0/72.0/48.0/48.0/2.0/False
+202.0/Wobbuffet/Psychic//190.0/33.0/58.0/33.0/58.0/33.0/2.0/False
+203.0/Girafarig/Normal/Psychic/70.0/80.0/65.0/90.0/65.0/85.0/2.0/False
+204.0/Pineco/Bug//50.0/65.0/90.0/35.0/35.0/15.0/2.0/False
+205.0/Forretress/Bug/Steel/75.0/90.0/140.0/60.0/60.0/40.0/2.0/False
+206.0/Dunsparce/Normal//100.0/70.0/70.0/65.0/65.0/45.0/2.0/False
+207.0/Gligar/Ground/Flying/65.0/75.0/105.0/35.0/65.0/85.0/2.0/False
+208.0/Steelix/Steel/Ground/75.0/85.0/200.0/55.0/65.0/30.0/2.0/False
+208.0/SteelixMega Steelix/Steel/Ground/75.0/125.0/230.0/55.0/95.0/30.0/2.0/False
+209.0/Snubbull/Fairy//60.0/80.0/50.0/40.0/40.0/30.0/2.0/False
+210.0/Granbull/Fairy//90.0/120.0/75.0/60.0/60.0/45.0/2.0/False
+211.0/Qwilfish/Water/Poison/65.0/95.0/75.0/55.0/55.0/85.0/2.0/False
+212.0/Scizor/Bug/Steel/70.0/130.0/100.0/55.0/80.0/65.0/2.0/False
+212.0/ScizorMega Scizor/Bug/Steel/70.0/150.0/140.0/65.0/100.0/75.0/2.0/False
+213.0/Shuckle/Bug/Rock/20.0/10.0/230.0/10.0/230.0/5.0/2.0/False
+214.0/Heracross/Bug/Fighting/80.0/125.0/75.0/40.0/95.0/85.0/2.0/False
+214.0/HeracrossMega Heracross/Bug/Fighting/80.0/185.0/115.0/40.0/105.0/75.0/2.0/False
+215.0/Sneasel/Dark/Ice/55.0/95.0/55.0/35.0/75.0/115.0/2.0/False
+216.0/Teddiursa/Normal//60.0/80.0/50.0/50.0/50.0/40.0/2.0/False
+217.0/Ursaring/Normal//90.0/130.0/75.0/75.0/75.0/55.0/2.0/False
+218.0/Slugma/Fire//40.0/40.0/40.0/70.0/40.0/20.0/2.0/False
+219.0/Magcargo/Fire/Rock/50.0/50.0/120.0/80.0/80.0/30.0/2.0/False
+220.0/Swinub/Ice/Ground/50.0/50.0/40.0/30.0/30.0/50.0/2.0/False
+221.0/Piloswine/Ice/Ground/100.0/100.0/80.0/60.0/60.0/50.0/2.0/False
+222.0/Corsola/Water/Rock/55.0/55.0/85.0/65.0/85.0/35.0/2.0/False
+223.0/Remoraid/Water//35.0/65.0/35.0/65.0/35.0/65.0/2.0/False
+224.0/Octillery/Water//75.0/105.0/75.0/105.0/75.0/45.0/2.0/False
+225.0/Delibird/Ice/Flying/45.0/55.0/45.0/65.0/45.0/75.0/2.0/False
+226.0/Mantine/Water/Flying/65.0/40.0/70.0/80.0/140.0/70.0/2.0/False
+227.0/Skarmory/Steel/Flying/65.0/80.0/140.0/40.0/70.0/70.0/2.0/False
+228.0/Houndour/Dark/Fire/45.0/60.0/30.0/80.0/50.0/65.0/2.0/False
+229.0/Houndoom/Dark/Fire/75.0/90.0/50.0/110.0/80.0/95.0/2.0/False
+229.0/HoundoomMega Houndoom/Dark/Fire/75.0/90.0/90.0/140.0/90.0/115.0/2.0/False
+230.0/Kingdra/Water/Dragon/75.0/95.0/95.0/95.0/95.0/85.0/2.0/False
+231.0/Phanpy/Ground//90.0/60.0/60.0/40.0/40.0/40.0/2.0/False
+232.0/Donphan/Ground//90.0/120.0/120.0/60.0/60.0/50.0/2.0/False
+233.0/Porygon2/Normal//85.0/80.0/90.0/105.0/95.0/60.0/2.0/False
+234.0/Stantler/Normal//73.0/95.0/62.0/85.0/65.0/85.0/2.0/False
+235.0/Smeargle/Normal//55.0/20.0/35.0/20.0/45.0/75.0/2.0/False
+236.0/Tyrogue/Fighting//35.0/35.0/35.0/35.0/35.0/35.0/2.0/False
+237.0/Hitmontop/Fighting//50.0/95.0/95.0/35.0/110.0/70.0/2.0/False
+238.0/Smoochum/Ice/Psychic/45.0/30.0/15.0/85.0/65.0/65.0/2.0/False
+239.0/Elekid/Electric//45.0/63.0/37.0/65.0/55.0/95.0/2.0/False
+240.0/Magby/Fire//45.0/75.0/37.0/70.0/55.0/83.0/2.0/False
+241.0/Miltank/Normal//95.0/80.0/105.0/40.0/70.0/100.0/2.0/False
+242.0/Blissey/Normal//255.0/10.0/10.0/75.0/135.0/55.0/2.0/False
+243.0/Raikou/Electric//90.0/85.0/75.0/115.0/100.0/115.0/2.0/True
+244.0/Entei/Fire//115.0/115.0/85.0/90.0/75.0/100.0/2.0/True
+245.0/Suicune/Water//100.0/75.0/115.0/90.0/115.0/85.0/2.0/True
+246.0/Larvitar/Rock/Ground/50.0/64.0/50.0/45.0/50.0/41.0/2.0/False
+247.0/Pupitar/Rock/Ground/70.0/84.0/70.0/65.0/70.0/51.0/2.0/False
+248.0/Tyranitar/Rock/Dark/100.0/134.0/110.0/95.0/100.0/61.0/2.0/False
+248.0/TyranitarMega Tyranitar/Rock/Dark/100.0/164.0/150.0/95.0/120.0/71.0/2.0/False
+249.0/Lugia/Psychic/Flying/106.0/90.0/130.0/90.0/154.0/110.0/2.0/True
+250.0/Ho-oh/Fire/Flying/106.0/130.0/90.0/110.0/154.0/90.0/2.0/True
+251.0/Celebi/Psychic/Grass/100.0/100.0/100.0/100.0/100.0/100.0/2.0/False
+252.0/Treecko/Grass//40.0/45.0/35.0/65.0/55.0/70.0/3.0/False
+253.0/Grovyle/Grass//50.0/65.0/45.0/85.0/65.0/95.0/3.0/False
+254.0/Sceptile/Grass//70.0/85.0/65.0/105.0/85.0/120.0/3.0/False
+254.0/SceptileMega Sceptile/Grass/Dragon/70.0/110.0/75.0/145.0/85.0/145.0/3.0/False
+255.0/Torchic/Fire//45.0/60.0/40.0/70.0/50.0/45.0/3.0/False
+256.0/Combusken/Fire/Fighting/60.0/85.0/60.0/85.0/60.0/55.0/3.0/False
+257.0/Blaziken/Fire/Fighting/80.0/120.0/70.0/110.0/70.0/80.0/3.0/False
+257.0/BlazikenMega Blaziken/Fire/Fighting/80.0/160.0/80.0/130.0/80.0/100.0/3.0/False
+258.0/Mudkip/Water//50.0/70.0/50.0/50.0/50.0/40.0/3.0/False
+259.0/Marshtomp/Water/Ground/70.0/85.0/70.0/60.0/70.0/50.0/3.0/False
+260.0/Swampert/Water/Ground/100.0/110.0/90.0/85.0/90.0/60.0/3.0/False
+260.0/SwampertMega Swampert/Water/Ground/100.0/150.0/110.0/95.0/110.0/70.0/3.0/False
+261.0/Poochyena/Dark//35.0/55.0/35.0/30.0/30.0/35.0/3.0/False
+262.0/Mightyena/Dark//70.0/90.0/70.0/60.0/60.0/70.0/3.0/False
+263.0/Zigzagoon/Normal//38.0/30.0/41.0/30.0/41.0/60.0/3.0/False
+264.0/Linoone/Normal//78.0/70.0/61.0/50.0/61.0/100.0/3.0/False
+265.0/Wurmple/Bug//45.0/45.0/35.0/20.0/30.0/20.0/3.0/False
+266.0/Silcoon/Bug//50.0/35.0/55.0/25.0/25.0/15.0/3.0/False
+267.0/Beautifly/Bug/Flying/60.0/70.0/50.0/100.0/50.0/65.0/3.0/False
+268.0/Cascoon/Bug//50.0/35.0/55.0/25.0/25.0/15.0/3.0/False
+269.0/Dustox/Bug/Poison/60.0/50.0/70.0/50.0/90.0/65.0/3.0/False
+270.0/Lotad/Water/Grass/40.0/30.0/30.0/40.0/50.0/30.0/3.0/False
+271.0/Lombre/Water/Grass/60.0/50.0/50.0/60.0/70.0/50.0/3.0/False
+272.0/Ludicolo/Water/Grass/80.0/70.0/70.0/90.0/100.0/70.0/3.0/False
+273.0/Seedot/Grass//40.0/40.0/50.0/30.0/30.0/30.0/3.0/False
+274.0/Nuzleaf/Grass/Dark/70.0/70.0/40.0/60.0/40.0/60.0/3.0/False
+275.0/Shiftry/Grass/Dark/90.0/100.0/60.0/90.0/60.0/80.0/3.0/False
+276.0/Taillow/Normal/Flying/40.0/55.0/30.0/30.0/30.0/85.0/3.0/False
+277.0/Swellow/Normal/Flying/60.0/85.0/60.0/50.0/50.0/125.0/3.0/False
+278.0/Wingull/Water/Flying/40.0/30.0/30.0/55.0/30.0/85.0/3.0/False
+279.0/Pelipper/Water/Flying/60.0/50.0/100.0/85.0/70.0/65.0/3.0/False
+280.0/Ralts/Psychic/Fairy/28.0/25.0/25.0/45.0/35.0/40.0/3.0/False
+281.0/Kirlia/Psychic/Fairy/38.0/35.0/35.0/65.0/55.0/50.0/3.0/False
+282.0/Gardevoir/Psychic/Fairy/68.0/65.0/65.0/125.0/115.0/80.0/3.0/False
+282.0/GardevoirMega Gardevoir/Psychic/Fairy/68.0/85.0/65.0/165.0/135.0/100.0/3.0/False
+283.0/Surskit/Bug/Water/40.0/30.0/32.0/50.0/52.0/65.0/3.0/False
+284.0/Masquerain/Bug/Flying/70.0/60.0/62.0/80.0/82.0/60.0/3.0/False
+285.0/Shroomish/Grass//60.0/40.0/60.0/40.0/60.0/35.0/3.0/False
+286.0/Breloom/Grass/Fighting/60.0/130.0/80.0/60.0/60.0/70.0/3.0/False
+287.0/Slakoth/Normal//60.0/60.0/60.0/35.0/35.0/30.0/3.0/False
+288.0/Vigoroth/Normal//80.0/80.0/80.0/55.0/55.0/90.0/3.0/False
+289.0/Slaking/Normal//150.0/160.0/100.0/95.0/65.0/100.0/3.0/False
+290.0/Nincada/Bug/Ground/31.0/45.0/90.0/30.0/30.0/40.0/3.0/False
+291.0/Ninjask/Bug/Flying/61.0/90.0/45.0/50.0/50.0/160.0/3.0/False
+292.0/Shedinja/Bug/Ghost/1.0/90.0/45.0/30.0/30.0/40.0/3.0/False
+293.0/Whismur/Normal//64.0/51.0/23.0/51.0/23.0/28.0/3.0/False
+294.0/Loudred/Normal//84.0/71.0/43.0/71.0/43.0/48.0/3.0/False
+295.0/Exploud/Normal//104.0/91.0/63.0/91.0/73.0/68.0/3.0/False
+296.0/Makuhita/Fighting//72.0/60.0/30.0/20.0/30.0/25.0/3.0/False
+297.0/Hariyama/Fighting//144.0/120.0/60.0/40.0/60.0/50.0/3.0/False
+298.0/Azurill/Normal/Fairy/50.0/20.0/40.0/20.0/40.0/20.0/3.0/False
+299.0/Nosepass/Rock//30.0/45.0/135.0/45.0/90.0/30.0/3.0/False
+300.0/Skitty/Normal//50.0/45.0/45.0/35.0/35.0/50.0/3.0/False
+301.0/Delcatty/Normal//70.0/65.0/65.0/55.0/55.0/70.0/3.0/False
+302.0/Sableye/Dark/Ghost/50.0/75.0/75.0/65.0/65.0/50.0/3.0/False
+302.0/SableyeMega Sableye/Dark/Ghost/50.0/85.0/125.0/85.0/115.0/20.0/3.0/False
+303.0/Mawile/Steel/Fairy/50.0/85.0/85.0/55.0/55.0/50.0/3.0/False
+303.0/MawileMega Mawile/Steel/Fairy/50.0/105.0/125.0/55.0/95.0/50.0/3.0/False
+304.0/Aron/Steel/Rock/50.0/70.0/100.0/40.0/40.0/30.0/3.0/False
+305.0/Lairon/Steel/Rock/60.0/90.0/140.0/50.0/50.0/40.0/3.0/False
+306.0/Aggron/Steel/Rock/70.0/110.0/180.0/60.0/60.0/50.0/3.0/False
+306.0/AggronMega Aggron/Steel//70.0/140.0/230.0/60.0/80.0/50.0/3.0/False
+307.0/Meditite/Fighting/Psychic/30.0/40.0/55.0/40.0/55.0/60.0/3.0/False
+308.0/Medicham/Fighting/Psychic/60.0/60.0/75.0/60.0/75.0/80.0/3.0/False
+308.0/MedichamMega Medicham/Fighting/Psychic/60.0/100.0/85.0/80.0/85.0/100.0/3.0/False
+309.0/Electrike/Electric//40.0/45.0/40.0/65.0/40.0/65.0/3.0/False
+310.0/Manectric/Electric//70.0/75.0/60.0/105.0/60.0/105.0/3.0/False
+310.0/ManectricMega Manectric/Electric//70.0/75.0/80.0/135.0/80.0/135.0/3.0/False
+311.0/Plusle/Electric//60.0/50.0/40.0/85.0/75.0/95.0/3.0/False
+312.0/Minun/Electric//60.0/40.0/50.0/75.0/85.0/95.0/3.0/False
+313.0/Volbeat/Bug//65.0/73.0/55.0/47.0/75.0/85.0/3.0/False
+314.0/Illumise/Bug//65.0/47.0/55.0/73.0/75.0/85.0/3.0/False
+315.0/Roselia/Grass/Poison/50.0/60.0/45.0/100.0/80.0/65.0/3.0/False
+316.0/Gulpin/Poison//70.0/43.0/53.0/43.0/53.0/40.0/3.0/False
+317.0/Swalot/Poison//100.0/73.0/83.0/73.0/83.0/55.0/3.0/False
+318.0/Carvanha/Water/Dark/45.0/90.0/20.0/65.0/20.0/65.0/3.0/False
+319.0/Sharpedo/Water/Dark/70.0/120.0/40.0/95.0/40.0/95.0/3.0/False
+319.0/SharpedoMega Sharpedo/Water/Dark/70.0/140.0/70.0/110.0/65.0/105.0/3.0/False
+320.0/Wailmer/Water//130.0/70.0/35.0/70.0/35.0/60.0/3.0/False
+321.0/Wailord/Water//170.0/90.0/45.0/90.0/45.0/60.0/3.0/False
+322.0/Numel/Fire/Ground/60.0/60.0/40.0/65.0/45.0/35.0/3.0/False
+323.0/Camerupt/Fire/Ground/70.0/100.0/70.0/105.0/75.0/40.0/3.0/False
+323.0/CameruptMega Camerupt/Fire/Ground/70.0/120.0/100.0/145.0/105.0/20.0/3.0/False
+324.0/Torkoal/Fire//70.0/85.0/140.0/85.0/70.0/20.0/3.0/False
+325.0/Spoink/Psychic//60.0/25.0/35.0/70.0/80.0/60.0/3.0/False
+326.0/Grumpig/Psychic//80.0/45.0/65.0/90.0/110.0/80.0/3.0/False
+327.0/Spinda/Normal//60.0/60.0/60.0/60.0/60.0/60.0/3.0/False
+328.0/Trapinch/Ground//45.0/100.0/45.0/45.0/45.0/10.0/3.0/False
+329.0/Vibrava/Ground/Dragon/50.0/70.0/50.0/50.0/50.0/70.0/3.0/False
+330.0/Flygon/Ground/Dragon/80.0/100.0/80.0/80.0/80.0/100.0/3.0/False
+331.0/Cacnea/Grass//50.0/85.0/40.0/85.0/40.0/35.0/3.0/False
+332.0/Cacturne/Grass/Dark/70.0/115.0/60.0/115.0/60.0/55.0/3.0/False
+333.0/Swablu/Normal/Flying/45.0/40.0/60.0/40.0/75.0/50.0/3.0/False
+334.0/Altaria/Dragon/Flying/75.0/70.0/90.0/70.0/105.0/80.0/3.0/False
+334.0/AltariaMega Altaria/Dragon/Fairy/75.0/110.0/110.0/110.0/105.0/80.0/3.0/False
+335.0/Zangoose/Normal//73.0/115.0/60.0/60.0/60.0/90.0/3.0/False
+336.0/Seviper/Poison//73.0/100.0/60.0/100.0/60.0/65.0/3.0/False
+337.0/Lunatone/Rock/Psychic/70.0/55.0/65.0/95.0/85.0/70.0/3.0/False
+338.0/Solrock/Rock/Psychic/70.0/95.0/85.0/55.0/65.0/70.0/3.0/False
+339.0/Barboach/Water/Ground/50.0/48.0/43.0/46.0/41.0/60.0/3.0/False
+340.0/Whiscash/Water/Ground/110.0/78.0/73.0/76.0/71.0/60.0/3.0/False
+341.0/Corphish/Water//43.0/80.0/65.0/50.0/35.0/35.0/3.0/False
+342.0/Crawdaunt/Water/Dark/63.0/120.0/85.0/90.0/55.0/55.0/3.0/False
+343.0/Baltoy/Ground/Psychic/40.0/40.0/55.0/40.0/70.0/55.0/3.0/False
+344.0/Claydol/Ground/Psychic/60.0/70.0/105.0/70.0/120.0/75.0/3.0/False
+345.0/Lileep/Rock/Grass/66.0/41.0/77.0/61.0/87.0/23.0/3.0/False
+346.0/Cradily/Rock/Grass/86.0/81.0/97.0/81.0/107.0/43.0/3.0/False
+347.0/Anorith/Rock/Bug/45.0/95.0/50.0/40.0/50.0/75.0/3.0/False
+348.0/Armaldo/Rock/Bug/75.0/125.0/100.0/70.0/80.0/45.0/3.0/False
+349.0/Feebas/Water//20.0/15.0/20.0/10.0/55.0/80.0/3.0/False
+350.0/Milotic/Water//95.0/60.0/79.0/100.0/125.0/81.0/3.0/False
+351.0/Castform/Normal//70.0/70.0/70.0/70.0/70.0/70.0/3.0/False
+352.0/Kecleon/Normal//60.0/90.0/70.0/60.0/120.0/40.0/3.0/False
+353.0/Shuppet/Ghost//44.0/75.0/35.0/63.0/33.0/45.0/3.0/False
+354.0/Banette/Ghost//64.0/115.0/65.0/83.0/63.0/65.0/3.0/False
+354.0/BanetteMega Banette/Ghost//64.0/165.0/75.0/93.0/83.0/75.0/3.0/False
+355.0/Duskull/Ghost//20.0/40.0/90.0/30.0/90.0/25.0/3.0/False
+356.0/Dusclops/Ghost//40.0/70.0/130.0/60.0/130.0/25.0/3.0/False
+357.0/Tropius/Grass/Flying/99.0/68.0/83.0/72.0/87.0/51.0/3.0/False
+358.0/Chimecho/Psychic//65.0/50.0/70.0/95.0/80.0/65.0/3.0/False
+359.0/Absol/Dark//65.0/130.0/60.0/75.0/60.0/75.0/3.0/False
+359.0/AbsolMega Absol/Dark//65.0/150.0/60.0/115.0/60.0/115.0/3.0/False
+360.0/Wynaut/Psychic//95.0/23.0/48.0/23.0/48.0/23.0/3.0/False
+361.0/Snorunt/Ice//50.0/50.0/50.0/50.0/50.0/50.0/3.0/False
+362.0/Glalie/Ice//80.0/80.0/80.0/80.0/80.0/80.0/3.0/False
+362.0/GlalieMega Glalie/Ice//80.0/120.0/80.0/120.0/80.0/100.0/3.0/False
+363.0/Spheal/Ice/Water/70.0/40.0/50.0/55.0/50.0/25.0/3.0/False
+364.0/Sealeo/Ice/Water/90.0/60.0/70.0/75.0/70.0/45.0/3.0/False
+365.0/Walrein/Ice/Water/110.0/80.0/90.0/95.0/90.0/65.0/3.0/False
+366.0/Clamperl/Water//35.0/64.0/85.0/74.0/55.0/32.0/3.0/False
+367.0/Huntail/Water//55.0/104.0/105.0/94.0/75.0/52.0/3.0/False
+368.0/Gorebyss/Water//55.0/84.0/105.0/114.0/75.0/52.0/3.0/False
+369.0/Relicanth/Water/Rock/100.0/90.0/130.0/45.0/65.0/55.0/3.0/False
+370.0/Luvdisc/Water//43.0/30.0/55.0/40.0/65.0/97.0/3.0/False
+371.0/Bagon/Dragon//45.0/75.0/60.0/40.0/30.0/50.0/3.0/False
+372.0/Shelgon/Dragon//65.0/95.0/100.0/60.0/50.0/50.0/3.0/False
+373.0/Salamence/Dragon/Flying/95.0/135.0/80.0/110.0/80.0/100.0/3.0/False
+373.0/SalamenceMega Salamence/Dragon/Flying/95.0/145.0/130.0/120.0/90.0/120.0/3.0/False
+374.0/Beldum/Steel/Psychic/40.0/55.0/80.0/35.0/60.0/30.0/3.0/False
+375.0/Metang/Steel/Psychic/60.0/75.0/100.0/55.0/80.0/50.0/3.0/False
+376.0/Metagross/Steel/Psychic/80.0/135.0/130.0/95.0/90.0/70.0/3.0/False
+376.0/MetagrossMega Metagross/Steel/Psychic/80.0/145.0/150.0/105.0/110.0/110.0/3.0/False
+377.0/Regirock/Rock//80.0/100.0/200.0/50.0/100.0/50.0/3.0/True
+378.0/Regice/Ice//80.0/50.0/100.0/100.0/200.0/50.0/3.0/True
+379.0/Registeel/Steel//80.0/75.0/150.0/75.0/150.0/50.0/3.0/True
+380.0/Latias/Dragon/Psychic/80.0/80.0/90.0/110.0/130.0/110.0/3.0/True
+380.0/LatiasMega Latias/Dragon/Psychic/80.0/100.0/120.0/140.0/150.0/110.0/3.0/True
+381.0/Latios/Dragon/Psychic/80.0/90.0/80.0/130.0/110.0/110.0/3.0/True
+381.0/LatiosMega Latios/Dragon/Psychic/80.0/130.0/100.0/160.0/120.0/110.0/3.0/True
+382.0/Kyogre/Water//100.0/100.0/90.0/150.0/140.0/90.0/3.0/True
+382.0/KyogrePrimal Kyogre/Water//100.0/150.0/90.0/180.0/160.0/90.0/3.0/True
+383.0/Groudon/Ground//100.0/150.0/140.0/100.0/90.0/90.0/3.0/True
+383.0/GroudonPrimal Groudon/Ground/Fire/100.0/180.0/160.0/150.0/90.0/90.0/3.0/True
+384.0/Rayquaza/Dragon/Flying/105.0/150.0/90.0/150.0/90.0/95.0/3.0/True
+384.0/RayquazaMega Rayquaza/Dragon/Flying/105.0/180.0/100.0/180.0/100.0/115.0/3.0/True
+385.0/Jirachi/Steel/Psychic/100.0/100.0/100.0/100.0/100.0/100.0/3.0/True
+386.0/DeoxysNormal Forme/Psychic//50.0/150.0/50.0/150.0/50.0/150.0/3.0/True
+386.0/DeoxysAttack Forme/Psychic//50.0/180.0/20.0/180.0/20.0/150.0/3.0/True
+386.0/DeoxysDefense Forme/Psychic//50.0/70.0/160.0/70.0/160.0/90.0/3.0/True
+386.0/DeoxysSpeed Forme/Psychic//50.0/95.0/90.0/95.0/90.0/180.0/3.0/True
+387.0/Turtwig/Grass//55.0/68.0/64.0/45.0/55.0/31.0/4.0/False
+388.0/Grotle/Grass//75.0/89.0/85.0/55.0/65.0/36.0/4.0/False
+389.0/Torterra/Grass/Ground/95.0/109.0/105.0/75.0/85.0/56.0/4.0/False
+390.0/Chimchar/Fire//44.0/58.0/44.0/58.0/44.0/61.0/4.0/False
+391.0/Monferno/Fire/Fighting/64.0/78.0/52.0/78.0/52.0/81.0/4.0/False
+392.0/Infernape/Fire/Fighting/76.0/104.0/71.0/104.0/71.0/108.0/4.0/False
+393.0/Piplup/Water//53.0/51.0/53.0/61.0/56.0/40.0/4.0/False
+394.0/Prinplup/Water//64.0/66.0/68.0/81.0/76.0/50.0/4.0/False
+395.0/Empoleon/Water/Steel/84.0/86.0/88.0/111.0/101.0/60.0/4.0/False
+396.0/Starly/Normal/Flying/40.0/55.0/30.0/30.0/30.0/60.0/4.0/False
+397.0/Staravia/Normal/Flying/55.0/75.0/50.0/40.0/40.0/80.0/4.0/False
+398.0/Staraptor/Normal/Flying/85.0/120.0/70.0/50.0/60.0/100.0/4.0/False
+399.0/Bidoof/Normal//59.0/45.0/40.0/35.0/40.0/31.0/4.0/False
+400.0/Bibarel/Normal/Water/79.0/85.0/60.0/55.0/60.0/71.0/4.0/False
+401.0/Kricketot/Bug//37.0/25.0/41.0/25.0/41.0/25.0/4.0/False
+402.0/Kricketune/Bug//77.0/85.0/51.0/55.0/51.0/65.0/4.0/False
+403.0/Shinx/Electric//45.0/65.0/34.0/40.0/34.0/45.0/4.0/False
+404.0/Luxio/Electric//60.0/85.0/49.0/60.0/49.0/60.0/4.0/False
+405.0/Luxray/Electric//80.0/120.0/79.0/95.0/79.0/70.0/4.0/False
+406.0/Budew/Grass/Poison/40.0/30.0/35.0/50.0/70.0/55.0/4.0/False
+407.0/Roserade/Grass/Poison/60.0/70.0/65.0/125.0/105.0/90.0/4.0/False
+408.0/Cranidos/Rock//67.0/125.0/40.0/30.0/30.0/58.0/4.0/False
+409.0/Rampardos/Rock//97.0/165.0/60.0/65.0/50.0/58.0/4.0/False
+410.0/Shieldon/Rock/Steel/30.0/42.0/118.0/42.0/88.0/30.0/4.0/False
+411.0/Bastiodon/Rock/Steel/60.0/52.0/168.0/47.0/138.0/30.0/4.0/False
+412.0/Burmy/Bug//40.0/29.0/45.0/29.0/45.0/36.0/4.0/False
+413.0/WormadamPlant Cloak/Bug/Grass/60.0/59.0/85.0/79.0/105.0/36.0/4.0/False
+413.0/WormadamSandy Cloak/Bug/Ground/60.0/79.0/105.0/59.0/85.0/36.0/4.0/False
+413.0/WormadamTrash Cloak/Bug/Steel/60.0/69.0/95.0/69.0/95.0/36.0/4.0/False
+414.0/Mothim/Bug/Flying/70.0/94.0/50.0/94.0/50.0/66.0/4.0/False
+415.0/Combee/Bug/Flying/30.0/30.0/42.0/30.0/42.0/70.0/4.0/False
+416.0/Vespiquen/Bug/Flying/70.0/80.0/102.0/80.0/102.0/40.0/4.0/False
+417.0/Pachirisu/Electric//60.0/45.0/70.0/45.0/90.0/95.0/4.0/False
+418.0/Buizel/Water//55.0/65.0/35.0/60.0/30.0/85.0/4.0/False
+419.0/Floatzel/Water//85.0/105.0/55.0/85.0/50.0/115.0/4.0/False
+420.0/Cherubi/Grass//45.0/35.0/45.0/62.0/53.0/35.0/4.0/False
+421.0/Cherrim/Grass//70.0/60.0/70.0/87.0/78.0/85.0/4.0/False
+422.0/Shellos/Water//76.0/48.0/48.0/57.0/62.0/34.0/4.0/False
+423.0/Gastrodon/Water/Ground/111.0/83.0/68.0/92.0/82.0/39.0/4.0/False
+424.0/Ambipom/Normal//75.0/100.0/66.0/60.0/66.0/115.0/4.0/False
+425.0/Drifloon/Ghost/Flying/90.0/50.0/34.0/60.0/44.0/70.0/4.0/False
+426.0/Drifblim/Ghost/Flying/150.0/80.0/44.0/90.0/54.0/80.0/4.0/False
+427.0/Buneary/Normal//55.0/66.0/44.0/44.0/56.0/85.0/4.0/False
+428.0/Lopunny/Normal//65.0/76.0/84.0/54.0/96.0/105.0/4.0/False
+428.0/LopunnyMega Lopunny/Normal/Fighting/65.0/136.0/94.0/54.0/96.0/135.0/4.0/False
+429.0/Mismagius/Ghost//60.0/60.0/60.0/105.0/105.0/105.0/4.0/False
+430.0/Honchkrow/Dark/Flying/100.0/125.0/52.0/105.0/52.0/71.0/4.0/False
+431.0/Glameow/Normal//49.0/55.0/42.0/42.0/37.0/85.0/4.0/False
+432.0/Purugly/Normal//71.0/82.0/64.0/64.0/59.0/112.0/4.0/False
+433.0/Chingling/Psychic//45.0/30.0/50.0/65.0/50.0/45.0/4.0/False
+434.0/Stunky/Poison/Dark/63.0/63.0/47.0/41.0/41.0/74.0/4.0/False
+435.0/Skuntank/Poison/Dark/103.0/93.0/67.0/71.0/61.0/84.0/4.0/False
+436.0/Bronzor/Steel/Psychic/57.0/24.0/86.0/24.0/86.0/23.0/4.0/False
+437.0/Bronzong/Steel/Psychic/67.0/89.0/116.0/79.0/116.0/33.0/4.0/False
+438.0/Bonsly/Rock//50.0/80.0/95.0/10.0/45.0/10.0/4.0/False
+439.0/Mime Jr./Psychic/Fairy/20.0/25.0/45.0/70.0/90.0/60.0/4.0/False
+440.0/Happiny/Normal//100.0/5.0/5.0/15.0/65.0/30.0/4.0/False
+441.0/Chatot/Normal/Flying/76.0/65.0/45.0/92.0/42.0/91.0/4.0/False
+442.0/Spiritomb/Ghost/Dark/50.0/92.0/108.0/92.0/108.0/35.0/4.0/False
+443.0/Gible/Dragon/Ground/58.0/70.0/45.0/40.0/45.0/42.0/4.0/False
+444.0/Gabite/Dragon/Ground/68.0/90.0/65.0/50.0/55.0/82.0/4.0/False
+445.0/Garchomp/Dragon/Ground/108.0/130.0/95.0/80.0/85.0/102.0/4.0/False
+445.0/GarchompMega Garchomp/Dragon/Ground/108.0/170.0/115.0/120.0/95.0/92.0/4.0/False
+446.0/Munchlax/Normal//135.0/85.0/40.0/40.0/85.0/5.0/4.0/False
+447.0/Riolu/Fighting//40.0/70.0/40.0/35.0/40.0/60.0/4.0/False
+448.0/Lucario/Fighting/Steel/70.0/110.0/70.0/115.0/70.0/90.0/4.0/False
+448.0/LucarioMega Lucario/Fighting/Steel/70.0/145.0/88.0/140.0/70.0/112.0/4.0/False
+449.0/Hippopotas/Ground//68.0/72.0/78.0/38.0/42.0/32.0/4.0/False
+450.0/Hippowdon/Ground//108.0/112.0/118.0/68.0/72.0/47.0/4.0/False
+451.0/Skorupi/Poison/Bug/40.0/50.0/90.0/30.0/55.0/65.0/4.0/False
+452.0/Drapion/Poison/Dark/70.0/90.0/110.0/60.0/75.0/95.0/4.0/False
+453.0/Croagunk/Poison/Fighting/48.0/61.0/40.0/61.0/40.0/50.0/4.0/False
+454.0/Toxicroak/Poison/Fighting/83.0/106.0/65.0/86.0/65.0/85.0/4.0/False
+455.0/Carnivine/Grass//74.0/100.0/72.0/90.0/72.0/46.0/4.0/False
+456.0/Finneon/Water//49.0/49.0/56.0/49.0/61.0/66.0/4.0/False
+457.0/Lumineon/Water//69.0/69.0/76.0/69.0/86.0/91.0/4.0/False
+458.0/Mantyke/Water/Flying/45.0/20.0/50.0/60.0/120.0/50.0/4.0/False
+459.0/Snover/Grass/Ice/60.0/62.0/50.0/62.0/60.0/40.0/4.0/False
+460.0/Abomasnow/Grass/Ice/90.0/92.0/75.0/92.0/85.0/60.0/4.0/False
+460.0/AbomasnowMega Abomasnow/Grass/Ice/90.0/132.0/105.0/132.0/105.0/30.0/4.0/False
+461.0/Weavile/Dark/Ice/70.0/120.0/65.0/45.0/85.0/125.0/4.0/False
+462.0/Magnezone/Electric/Steel/70.0/70.0/115.0/130.0/90.0/60.0/4.0/False
+463.0/Lickilicky/Normal//110.0/85.0/95.0/80.0/95.0/50.0/4.0/False
+464.0/Rhyperior/Ground/Rock/115.0/140.0/130.0/55.0/55.0/40.0/4.0/False
+465.0/Tangrowth/Grass//100.0/100.0/125.0/110.0/50.0/50.0/4.0/False
+466.0/Electivire/Electric//75.0/123.0/67.0/95.0/85.0/95.0/4.0/False
+467.0/Magmortar/Fire//75.0/95.0/67.0/125.0/95.0/83.0/4.0/False
+468.0/Togekiss/Fairy/Flying/85.0/50.0/95.0/120.0/115.0/80.0/4.0/False
+469.0/Yanmega/Bug/Flying/86.0/76.0/86.0/116.0/56.0/95.0/4.0/False
+470.0/Leafeon/Grass//65.0/110.0/130.0/60.0/65.0/95.0/4.0/False
+471.0/Glaceon/Ice//65.0/60.0/110.0/130.0/95.0/65.0/4.0/False
+472.0/Gliscor/Ground/Flying/75.0/95.0/125.0/45.0/75.0/95.0/4.0/False
+473.0/Mamoswine/Ice/Ground/110.0/130.0/80.0/70.0/60.0/80.0/4.0/False
+474.0/Porygon-Z/Normal//85.0/80.0/70.0/135.0/75.0/90.0/4.0/False
+475.0/Gallade/Psychic/Fighting/68.0/125.0/65.0/65.0/115.0/80.0/4.0/False
+475.0/GalladeMega Gallade/Psychic/Fighting/68.0/165.0/95.0/65.0/115.0/110.0/4.0/False
+476.0/Probopass/Rock/Steel/60.0/55.0/145.0/75.0/150.0/40.0/4.0/False
+477.0/Dusknoir/Ghost//45.0/100.0/135.0/65.0/135.0/45.0/4.0/False
+478.0/Froslass/Ice/Ghost/70.0/80.0/70.0/80.0/70.0/110.0/4.0/False
+479.0/Rotom/Electric/Ghost/50.0/50.0/77.0/95.0/77.0/91.0/4.0/False
+479.0/RotomHeat Rotom/Electric/Fire/50.0/65.0/107.0/105.0/107.0/86.0/4.0/False
+479.0/RotomWash Rotom/Electric/Water/50.0/65.0/107.0/105.0/107.0/86.0/4.0/False
+479.0/RotomFrost Rotom/Electric/Ice/50.0/65.0/107.0/105.0/107.0/86.0/4.0/False
+479.0/RotomFan Rotom/Electric/Flying/50.0/65.0/107.0/105.0/107.0/86.0/4.0/False
+479.0/RotomMow Rotom/Electric/Grass/50.0/65.0/107.0/105.0/107.0/86.0/4.0/False
+480.0/Uxie/Psychic//75.0/75.0/130.0/75.0/130.0/95.0/4.0/True
+481.0/Mesprit/Psychic//80.0/105.0/105.0/105.0/105.0/80.0/4.0/True
+482.0/Azelf/Psychic//75.0/125.0/70.0/125.0/70.0/115.0/4.0/True
+483.0/Dialga/Steel/Dragon/100.0/120.0/120.0/150.0/100.0/90.0/4.0/True
+484.0/Palkia/Water/Dragon/90.0/120.0/100.0/150.0/120.0/100.0/4.0/True
+485.0/Heatran/Fire/Steel/91.0/90.0/106.0/130.0/106.0/77.0/4.0/True
+486.0/Regigigas/Normal//110.0/160.0/110.0/80.0/110.0/100.0/4.0/True
+487.0/GiratinaAltered Forme/Ghost/Dragon/150.0/100.0/120.0/100.0/120.0/90.0/4.0/True
+487.0/GiratinaOrigin Forme/Ghost/Dragon/150.0/120.0/100.0/120.0/100.0/90.0/4.0/True
+488.0/Cresselia/Psychic//120.0/70.0/120.0/75.0/130.0/85.0/4.0/False
+489.0/Phione/Water//80.0/80.0/80.0/80.0/80.0/80.0/4.0/False
+490.0/Manaphy/Water//100.0/100.0/100.0/100.0/100.0/100.0/4.0/False
+491.0/Darkrai/Dark//70.0/90.0/90.0/135.0/90.0/125.0/4.0/True
+492.0/ShayminLand Forme/Grass//100.0/100.0/100.0/100.0/100.0/100.0/4.0/True
+492.0/ShayminSky Forme/Grass/Flying/100.0/103.0/75.0/120.0/75.0/127.0/4.0/True
+493.0/Arceus/Normal//120.0/120.0/120.0/120.0/120.0/120.0/4.0/True
+494.0/Victini/Psychic/Fire/100.0/100.0/100.0/100.0/100.0/100.0/5.0/True
+495.0/Snivy/Grass//45.0/45.0/55.0/45.0/55.0/63.0/5.0/False
+496.0/Servine/Grass//60.0/60.0/75.0/60.0/75.0/83.0/5.0/False
+497.0/Serperior/Grass//75.0/75.0/95.0/75.0/95.0/113.0/5.0/False
+498.0/Tepig/Fire//65.0/63.0/45.0/45.0/45.0/45.0/5.0/False
+499.0/Pignite/Fire/Fighting/90.0/93.0/55.0/70.0/55.0/55.0/5.0/False
+500.0/Emboar/Fire/Fighting/110.0/123.0/65.0/100.0/65.0/65.0/5.0/False
+501.0/Oshawott/Water//55.0/55.0/45.0/63.0/45.0/45.0/5.0/False
+502.0/Dewott/Water//75.0/75.0/60.0/83.0/60.0/60.0/5.0/False
+503.0/Samurott/Water//95.0/100.0/85.0/108.0/70.0/70.0/5.0/False
+504.0/Patrat/Normal//45.0/55.0/39.0/35.0/39.0/42.0/5.0/False
+505.0/Watchog/Normal//60.0/85.0/69.0/60.0/69.0/77.0/5.0/False
+506.0/Lillipup/Normal//45.0/60.0/45.0/25.0/45.0/55.0/5.0/False
+507.0/Herdier/Normal//65.0/80.0/65.0/35.0/65.0/60.0/5.0/False
+508.0/Stoutland/Normal//85.0/110.0/90.0/45.0/90.0/80.0/5.0/False
+509.0/Purrloin/Dark//41.0/50.0/37.0/50.0/37.0/66.0/5.0/False
+510.0/Liepard/Dark//64.0/88.0/50.0/88.0/50.0/106.0/5.0/False
+511.0/Pansage/Grass//50.0/53.0/48.0/53.0/48.0/64.0/5.0/False
+512.0/Simisage/Grass//75.0/98.0/63.0/98.0/63.0/101.0/5.0/False
+513.0/Pansear/Fire//50.0/53.0/48.0/53.0/48.0/64.0/5.0/False
+514.0/Simisear/Fire//75.0/98.0/63.0/98.0/63.0/101.0/5.0/False
+515.0/Panpour/Water//50.0/53.0/48.0/53.0/48.0/64.0/5.0/False
+516.0/Simipour/Water//75.0/98.0/63.0/98.0/63.0/101.0/5.0/False
+517.0/Munna/Psychic//76.0/25.0/45.0/67.0/55.0/24.0/5.0/False
+518.0/Musharna/Psychic//116.0/55.0/85.0/107.0/95.0/29.0/5.0/False
+519.0/Pidove/Normal/Flying/50.0/55.0/50.0/36.0/30.0/43.0/5.0/False
+520.0/Tranquill/Normal/Flying/62.0/77.0/62.0/50.0/42.0/65.0/5.0/False
+521.0/Unfezant/Normal/Flying/80.0/115.0/80.0/65.0/55.0/93.0/5.0/False
+522.0/Blitzle/Electric//45.0/60.0/32.0/50.0/32.0/76.0/5.0/False
+523.0/Zebstrika/Electric//75.0/100.0/63.0/80.0/63.0/116.0/5.0/False
+524.0/Roggenrola/Rock//55.0/75.0/85.0/25.0/25.0/15.0/5.0/False
+525.0/Boldore/Rock//70.0/105.0/105.0/50.0/40.0/20.0/5.0/False
+526.0/Gigalith/Rock//85.0/135.0/130.0/60.0/80.0/25.0/5.0/False
+527.0/Woobat/Psychic/Flying/55.0/45.0/43.0/55.0/43.0/72.0/5.0/False
+528.0/Swoobat/Psychic/Flying/67.0/57.0/55.0/77.0/55.0/114.0/5.0/False
+529.0/Drilbur/Ground//60.0/85.0/40.0/30.0/45.0/68.0/5.0/False
+530.0/Excadrill/Ground/Steel/110.0/135.0/60.0/50.0/65.0/88.0/5.0/False
+531.0/Audino/Normal//103.0/60.0/86.0/60.0/86.0/50.0/5.0/False
+531.0/AudinoMega Audino/Normal/Fairy/103.0/60.0/126.0/80.0/126.0/50.0/5.0/False
+532.0/Timburr/Fighting//75.0/80.0/55.0/25.0/35.0/35.0/5.0/False
+533.0/Gurdurr/Fighting//85.0/105.0/85.0/40.0/50.0/40.0/5.0/False
+534.0/Conkeldurr/Fighting//105.0/140.0/95.0/55.0/65.0/45.0/5.0/False
+535.0/Tympole/Water//50.0/50.0/40.0/50.0/40.0/64.0/5.0/False
+536.0/Palpitoad/Water/Ground/75.0/65.0/55.0/65.0/55.0/69.0/5.0/False
+537.0/Seismitoad/Water/Ground/105.0/95.0/75.0/85.0/75.0/74.0/5.0/False
+538.0/Throh/Fighting//120.0/100.0/85.0/30.0/85.0/45.0/5.0/False
+539.0/Sawk/Fighting//75.0/125.0/75.0/30.0/75.0/85.0/5.0/False
+540.0/Sewaddle/Bug/Grass/45.0/53.0/70.0/40.0/60.0/42.0/5.0/False
+541.0/Swadloon/Bug/Grass/55.0/63.0/90.0/50.0/80.0/42.0/5.0/False
+542.0/Leavanny/Bug/Grass/75.0/103.0/80.0/70.0/80.0/92.0/5.0/False
+543.0/Venipede/Bug/Poison/30.0/45.0/59.0/30.0/39.0/57.0/5.0/False
+544.0/Whirlipede/Bug/Poison/40.0/55.0/99.0/40.0/79.0/47.0/5.0/False
+545.0/Scolipede/Bug/Poison/60.0/100.0/89.0/55.0/69.0/112.0/5.0/False
+546.0/Cottonee/Grass/Fairy/40.0/27.0/60.0/37.0/50.0/66.0/5.0/False
+547.0/Whimsicott/Grass/Fairy/60.0/67.0/85.0/77.0/75.0/116.0/5.0/False
+548.0/Petilil/Grass//45.0/35.0/50.0/70.0/50.0/30.0/5.0/False
+549.0/Lilligant/Grass//70.0/60.0/75.0/110.0/75.0/90.0/5.0/False
+550.0/Basculin/Water//70.0/92.0/65.0/80.0/55.0/98.0/5.0/False
+551.0/Sandile/Ground/Dark/50.0/72.0/35.0/35.0/35.0/65.0/5.0/False
+552.0/Krokorok/Ground/Dark/60.0/82.0/45.0/45.0/45.0/74.0/5.0/False
+553.0/Krookodile/Ground/Dark/95.0/117.0/80.0/65.0/70.0/92.0/5.0/False
+554.0/Darumaka/Fire//70.0/90.0/45.0/15.0/45.0/50.0/5.0/False
+555.0/DarmanitanStandard Mode/Fire//105.0/140.0/55.0/30.0/55.0/95.0/5.0/False
+555.0/DarmanitanZen Mode/Fire/Psychic/105.0/30.0/105.0/140.0/105.0/55.0/5.0/False
+556.0/Maractus/Grass//75.0/86.0/67.0/106.0/67.0/60.0/5.0/False
+557.0/Dwebble/Bug/Rock/50.0/65.0/85.0/35.0/35.0/55.0/5.0/False
+558.0/Crustle/Bug/Rock/70.0/95.0/125.0/65.0/75.0/45.0/5.0/False
+559.0/Scraggy/Dark/Fighting/50.0/75.0/70.0/35.0/70.0/48.0/5.0/False
+560.0/Scrafty/Dark/Fighting/65.0/90.0/115.0/45.0/115.0/58.0/5.0/False
+561.0/Sigilyph/Psychic/Flying/72.0/58.0/80.0/103.0/80.0/97.0/5.0/False
+562.0/Yamask/Ghost//38.0/30.0/85.0/55.0/65.0/30.0/5.0/False
+563.0/Cofagrigus/Ghost//58.0/50.0/145.0/95.0/105.0/30.0/5.0/False
+564.0/Tirtouga/Water/Rock/54.0/78.0/103.0/53.0/45.0/22.0/5.0/False
+565.0/Carracosta/Water/Rock/74.0/108.0/133.0/83.0/65.0/32.0/5.0/False
+566.0/Archen/Rock/Flying/55.0/112.0/45.0/74.0/45.0/70.0/5.0/False
+567.0/Archeops/Rock/Flying/75.0/140.0/65.0/112.0/65.0/110.0/5.0/False
+568.0/Trubbish/Poison//50.0/50.0/62.0/40.0/62.0/65.0/5.0/False
+569.0/Garbodor/Poison//80.0/95.0/82.0/60.0/82.0/75.0/5.0/False
+570.0/Zorua/Dark//40.0/65.0/40.0/80.0/40.0/65.0/5.0/False
+571.0/Zoroark/Dark//60.0/105.0/60.0/120.0/60.0/105.0/5.0/False
+572.0/Minccino/Normal//55.0/50.0/40.0/40.0/40.0/75.0/5.0/False
+573.0/Cinccino/Normal//75.0/95.0/60.0/65.0/60.0/115.0/5.0/False
+574.0/Gothita/Psychic//45.0/30.0/50.0/55.0/65.0/45.0/5.0/False
+575.0/Gothorita/Psychic//60.0/45.0/70.0/75.0/85.0/55.0/5.0/False
+576.0/Gothitelle/Psychic//70.0/55.0/95.0/95.0/110.0/65.0/5.0/False
+577.0/Solosis/Psychic//45.0/30.0/40.0/105.0/50.0/20.0/5.0/False
+578.0/Duosion/Psychic//65.0/40.0/50.0/125.0/60.0/30.0/5.0/False
+579.0/Reuniclus/Psychic//110.0/65.0/75.0/125.0/85.0/30.0/5.0/False
+580.0/Ducklett/Water/Flying/62.0/44.0/50.0/44.0/50.0/55.0/5.0/False
+581.0/Swanna/Water/Flying/75.0/87.0/63.0/87.0/63.0/98.0/5.0/False
+582.0/Vanillite/Ice//36.0/50.0/50.0/65.0/60.0/44.0/5.0/False
+583.0/Vanillish/Ice//51.0/65.0/65.0/80.0/75.0/59.0/5.0/False
+584.0/Vanilluxe/Ice//71.0/95.0/85.0/110.0/95.0/79.0/5.0/False
+585.0/Deerling/Normal/Grass/60.0/60.0/50.0/40.0/50.0/75.0/5.0/False
+586.0/Sawsbuck/Normal/Grass/80.0/100.0/70.0/60.0/70.0/95.0/5.0/False
+587.0/Emolga/Electric/Flying/55.0/75.0/60.0/75.0/60.0/103.0/5.0/False
+588.0/Karrablast/Bug//50.0/75.0/45.0/40.0/45.0/60.0/5.0/False
+589.0/Escavalier/Bug/Steel/70.0/135.0/105.0/60.0/105.0/20.0/5.0/False
+590.0/Foongus/Grass/Poison/69.0/55.0/45.0/55.0/55.0/15.0/5.0/False
+591.0/Amoonguss/Grass/Poison/114.0/85.0/70.0/85.0/80.0/30.0/5.0/False
+592.0/Frillish/Water/Ghost/55.0/40.0/50.0/65.0/85.0/40.0/5.0/False
+593.0/Jellicent/Water/Ghost/100.0/60.0/70.0/85.0/105.0/60.0/5.0/False
+594.0/Alomomola/Water//165.0/75.0/80.0/40.0/45.0/65.0/5.0/False
+595.0/Joltik/Bug/Electric/50.0/47.0/50.0/57.0/50.0/65.0/5.0/False
+596.0/Galvantula/Bug/Electric/70.0/77.0/60.0/97.0/60.0/108.0/5.0/False
+597.0/Ferroseed/Grass/Steel/44.0/50.0/91.0/24.0/86.0/10.0/5.0/False
+598.0/Ferrothorn/Grass/Steel/74.0/94.0/131.0/54.0/116.0/20.0/5.0/False
+599.0/Klink/Steel//40.0/55.0/70.0/45.0/60.0/30.0/5.0/False
+600.0/Klang/Steel//60.0/80.0/95.0/70.0/85.0/50.0/5.0/False
+601.0/Klinklang/Steel//60.0/100.0/115.0/70.0/85.0/90.0/5.0/False
+602.0/Tynamo/Electric//35.0/55.0/40.0/45.0/40.0/60.0/5.0/False
+603.0/Eelektrik/Electric//65.0/85.0/70.0/75.0/70.0/40.0/5.0/False
+604.0/Eelektross/Electric//85.0/115.0/80.0/105.0/80.0/50.0/5.0/False
+605.0/Elgyem/Psychic//55.0/55.0/55.0/85.0/55.0/30.0/5.0/False
+606.0/Beheeyem/Psychic//75.0/75.0/75.0/125.0/95.0/40.0/5.0/False
+607.0/Litwick/Ghost/Fire/50.0/30.0/55.0/65.0/55.0/20.0/5.0/False
+608.0/Lampent/Ghost/Fire/60.0/40.0/60.0/95.0/60.0/55.0/5.0/False
+609.0/Chandelure/Ghost/Fire/60.0/55.0/90.0/145.0/90.0/80.0/5.0/False
+610.0/Axew/Dragon//46.0/87.0/60.0/30.0/40.0/57.0/5.0/False
+611.0/Fraxure/Dragon//66.0/117.0/70.0/40.0/50.0/67.0/5.0/False
+612.0/Haxorus/Dragon//76.0/147.0/90.0/60.0/70.0/97.0/5.0/False
+613.0/Cubchoo/Ice//55.0/70.0/40.0/60.0/40.0/40.0/5.0/False
+614.0/Beartic/Ice//95.0/110.0/80.0/70.0/80.0/50.0/5.0/False
+615.0/Cryogonal/Ice//70.0/50.0/30.0/95.0/135.0/105.0/5.0/False
+616.0/Shelmet/Bug//50.0/40.0/85.0/40.0/65.0/25.0/5.0/False
+617.0/Accelgor/Bug//80.0/70.0/40.0/100.0/60.0/145.0/5.0/False
+618.0/Stunfisk/Ground/Electric/109.0/66.0/84.0/81.0/99.0/32.0/5.0/False
+619.0/Mienfoo/Fighting//45.0/85.0/50.0/55.0/50.0/65.0/5.0/False
+620.0/Mienshao/Fighting//65.0/125.0/60.0/95.0/60.0/105.0/5.0/False
+621.0/Druddigon/Dragon//77.0/120.0/90.0/60.0/90.0/48.0/5.0/False
+622.0/Golett/Ground/Ghost/59.0/74.0/50.0/35.0/50.0/35.0/5.0/False
+623.0/Golurk/Ground/Ghost/89.0/124.0/80.0/55.0/80.0/55.0/5.0/False
+624.0/Pawniard/Dark/Steel/45.0/85.0/70.0/40.0/40.0/60.0/5.0/False
+625.0/Bisharp/Dark/Steel/65.0/125.0/100.0/60.0/70.0/70.0/5.0/False
+626.0/Bouffalant/Normal//95.0/110.0/95.0/40.0/95.0/55.0/5.0/False
+627.0/Rufflet/Normal/Flying/70.0/83.0/50.0/37.0/50.0/60.0/5.0/False
+628.0/Braviary/Normal/Flying/100.0/123.0/75.0/57.0/75.0/80.0/5.0/False
+629.0/Vullaby/Dark/Flying/70.0/55.0/75.0/45.0/65.0/60.0/5.0/False
+630.0/Mandibuzz/Dark/Flying/110.0/65.0/105.0/55.0/95.0/80.0/5.0/False
+631.0/Heatmor/Fire//85.0/97.0/66.0/105.0/66.0/65.0/5.0/False
+632.0/Durant/Bug/Steel/58.0/109.0/112.0/48.0/48.0/109.0/5.0/False
+633.0/Deino/Dark/Dragon/52.0/65.0/50.0/45.0/50.0/38.0/5.0/False
+634.0/Zweilous/Dark/Dragon/72.0/85.0/70.0/65.0/70.0/58.0/5.0/False
+635.0/Hydreigon/Dark/Dragon/92.0/105.0/90.0/125.0/90.0/98.0/5.0/False
+636.0/Larvesta/Bug/Fire/55.0/85.0/55.0/50.0/55.0/60.0/5.0/False
+637.0/Volcarona/Bug/Fire/85.0/60.0/65.0/135.0/105.0/100.0/5.0/False
+638.0/Cobalion/Steel/Fighting/91.0/90.0/129.0/90.0/72.0/108.0/5.0/True
+639.0/Terrakion/Rock/Fighting/91.0/129.0/90.0/72.0/90.0/108.0/5.0/True
+640.0/Virizion/Grass/Fighting/91.0/90.0/72.0/90.0/129.0/108.0/5.0/True
+641.0/TornadusIncarnate Forme/Flying//79.0/115.0/70.0/125.0/80.0/111.0/5.0/True
+641.0/TornadusTherian Forme/Flying//79.0/100.0/80.0/110.0/90.0/121.0/5.0/True
+642.0/ThundurusIncarnate Forme/Electric/Flying/79.0/115.0/70.0/125.0/80.0/111.0/5.0/True
+642.0/ThundurusTherian Forme/Electric/Flying/79.0/105.0/70.0/145.0/80.0/101.0/5.0/True
+643.0/Reshiram/Dragon/Fire/100.0/120.0/100.0/150.0/120.0/90.0/5.0/True
+644.0/Zekrom/Dragon/Electric/100.0/150.0/120.0/120.0/100.0/90.0/5.0/True
+645.0/LandorusIncarnate Forme/Ground/Flying/89.0/125.0/90.0/115.0/80.0/101.0/5.0/True
+645.0/LandorusTherian Forme/Ground/Flying/89.0/145.0/90.0/105.0/80.0/91.0/5.0/True
+646.0/Kyurem/Dragon/Ice/125.0/130.0/90.0/130.0/90.0/95.0/5.0/True
+646.0/KyuremBlack Kyurem/Dragon/Ice/125.0/170.0/100.0/120.0/90.0/95.0/5.0/True
+646.0/KyuremWhite Kyurem/Dragon/Ice/125.0/120.0/90.0/170.0/100.0/95.0/5.0/True
+647.0/KeldeoOrdinary Forme/Water/Fighting/91.0/72.0/90.0/129.0/90.0/108.0/5.0/False
+647.0/KeldeoResolute Forme/Water/Fighting/91.0/72.0/90.0/129.0/90.0/108.0/5.0/False
+648.0/MeloettaAria Forme/Normal/Psychic/100.0/77.0/77.0/128.0/128.0/90.0/5.0/False
+648.0/MeloettaPirouette Forme/Normal/Fighting/100.0/128.0/90.0/77.0/77.0/128.0/5.0/False
+649.0/Genesect/Bug/Steel/71.0/120.0/95.0/120.0/95.0/99.0/5.0/False
+650.0/Chespin/Grass//56.0/61.0/65.0/48.0/45.0/38.0/6.0/False
+651.0/Quilladin/Grass//61.0/78.0/95.0/56.0/58.0/57.0/6.0/False
+652.0/Chesnaught/Grass/Fighting/88.0/107.0/122.0/74.0/75.0/64.0/6.0/False
+653.0/Fennekin/Fire//40.0/45.0/40.0/62.0/60.0/60.0/6.0/False
+654.0/Braixen/Fire//59.0/59.0/58.0/90.0/70.0/73.0/6.0/False
+655.0/Delphox/Fire/Psychic/75.0/69.0/72.0/114.0/100.0/104.0/6.0/False
+656.0/Froakie/Water//41.0/56.0/40.0/62.0/44.0/71.0/6.0/False
+657.0/Frogadier/Water//54.0/63.0/52.0/83.0/56.0/97.0/6.0/False
+658.0/Greninja/Water/Dark/72.0/95.0/67.0/103.0/71.0/122.0/6.0/False
+659.0/Bunnelby/Normal//38.0/36.0/38.0/32.0/36.0/57.0/6.0/False
+660.0/Diggersby/Normal/Ground/85.0/56.0/77.0/50.0/77.0/78.0/6.0/False
+661.0/Fletchling/Normal/Flying/45.0/50.0/43.0/40.0/38.0/62.0/6.0/False
+662.0/Fletchinder/Fire/Flying/62.0/73.0/55.0/56.0/52.0/84.0/6.0/False
+663.0/Talonflame/Fire/Flying/78.0/81.0/71.0/74.0/69.0/126.0/6.0/False
+664.0/Scatterbug/Bug//38.0/35.0/40.0/27.0/25.0/35.0/6.0/False
+665.0/Spewpa/Bug//45.0/22.0/60.0/27.0/30.0/29.0/6.0/False
+666.0/Vivillon/Bug/Flying/80.0/52.0/50.0/90.0/50.0/89.0/6.0/False
+667.0/Litleo/Fire/Normal/62.0/50.0/58.0/73.0/54.0/72.0/6.0/False
+668.0/Pyroar/Fire/Normal/86.0/68.0/72.0/109.0/66.0/106.0/6.0/False
+669.0/Flabébé/Fairy//44.0/38.0/39.0/61.0/79.0/42.0/6.0/False
+670.0/Floette/Fairy//54.0/45.0/47.0/75.0/98.0/52.0/6.0/False
+671.0/Florges/Fairy//78.0/65.0/68.0/112.0/154.0/75.0/6.0/False
+672.0/Skiddo/Grass//66.0/65.0/48.0/62.0/57.0/52.0/6.0/False
+673.0/Gogoat/Grass//123.0/100.0/62.0/97.0/81.0/68.0/6.0/False
+674.0/Pancham/Fighting//67.0/82.0/62.0/46.0/48.0/43.0/6.0/False
+675.0/Pangoro/Fighting/Dark/95.0/124.0/78.0/69.0/71.0/58.0/6.0/False
+676.0/Furfrou/Normal//75.0/80.0/60.0/65.0/90.0/102.0/6.0/False
+677.0/Espurr/Psychic//62.0/48.0/54.0/63.0/60.0/68.0/6.0/False
+678.0/MeowsticMale/Psychic//74.0/48.0/76.0/83.0/81.0/104.0/6.0/False
+678.0/MeowsticFemale/Psychic//74.0/48.0/76.0/83.0/81.0/104.0/6.0/False
+679.0/Honedge/Steel/Ghost/45.0/80.0/100.0/35.0/37.0/28.0/6.0/False
+680.0/Doublade/Steel/Ghost/59.0/110.0/150.0/45.0/49.0/35.0/6.0/False
+681.0/AegislashBlade Forme/Steel/Ghost/60.0/150.0/50.0/150.0/50.0/60.0/6.0/False
+681.0/AegislashShield Forme/Steel/Ghost/60.0/50.0/150.0/50.0/150.0/60.0/6.0/False
+682.0/Spritzee/Fairy//78.0/52.0/60.0/63.0/65.0/23.0/6.0/False
+683.0/Aromatisse/Fairy//101.0/72.0/72.0/99.0/89.0/29.0/6.0/False
+684.0/Swirlix/Fairy//62.0/48.0/66.0/59.0/57.0/49.0/6.0/False
+685.0/Slurpuff/Fairy//82.0/80.0/86.0/85.0/75.0/72.0/6.0/False
+686.0/Inkay/Dark/Psychic/53.0/54.0/53.0/37.0/46.0/45.0/6.0/False
+687.0/Malamar/Dark/Psychic/86.0/92.0/88.0/68.0/75.0/73.0/6.0/False
+688.0/Binacle/Rock/Water/42.0/52.0/67.0/39.0/56.0/50.0/6.0/False
+689.0/Barbaracle/Rock/Water/72.0/105.0/115.0/54.0/86.0/68.0/6.0/False
+690.0/Skrelp/Poison/Water/50.0/60.0/60.0/60.0/60.0/30.0/6.0/False
+691.0/Dragalge/Poison/Dragon/65.0/75.0/90.0/97.0/123.0/44.0/6.0/False
+692.0/Clauncher/Water//50.0/53.0/62.0/58.0/63.0/44.0/6.0/False
+693.0/Clawitzer/Water//71.0/73.0/88.0/120.0/89.0/59.0/6.0/False
+694.0/Helioptile/Electric/Normal/44.0/38.0/33.0/61.0/43.0/70.0/6.0/False
+695.0/Heliolisk/Electric/Normal/62.0/55.0/52.0/109.0/94.0/109.0/6.0/False
+696.0/Tyrunt/Rock/Dragon/58.0/89.0/77.0/45.0/45.0/48.0/6.0/False
+697.0/Tyrantrum/Rock/Dragon/82.0/121.0/119.0/69.0/59.0/71.0/6.0/False
+698.0/Amaura/Rock/Ice/77.0/59.0/50.0/67.0/63.0/46.0/6.0/False
+699.0/Aurorus/Rock/Ice/123.0/77.0/72.0/99.0/92.0/58.0/6.0/False
+700.0/Sylveon/Fairy//95.0/65.0/65.0/110.0/130.0/60.0/6.0/False
+701.0/Hawlucha/Fighting/Flying/78.0/92.0/75.0/74.0/63.0/118.0/6.0/False
+702.0/Dedenne/Electric/Fairy/67.0/58.0/57.0/81.0/67.0/101.0/6.0/False
+703.0/Carbink/Rock/Fairy/50.0/50.0/150.0/50.0/150.0/50.0/6.0/False
+704.0/Goomy/Dragon//45.0/50.0/35.0/55.0/75.0/40.0/6.0/False
+705.0/Sliggoo/Dragon//68.0/75.0/53.0/83.0/113.0/60.0/6.0/False
+706.0/Goodra/Dragon//90.0/100.0/70.0/110.0/150.0/80.0/6.0/False
+707.0/Klefki/Steel/Fairy/57.0/80.0/91.0/80.0/87.0/75.0/6.0/False
+708.0/Phantump/Ghost/Grass/43.0/70.0/48.0/50.0/60.0/38.0/6.0/False
+709.0/Trevenant/Ghost/Grass/85.0/110.0/76.0/65.0/82.0/56.0/6.0/False
+710.0/PumpkabooAverage Size/Ghost/Grass/49.0/66.0/70.0/44.0/55.0/51.0/6.0/False
+710.0/PumpkabooSmall Size/Ghost/Grass/44.0/66.0/70.0/44.0/55.0/56.0/6.0/False
+710.0/PumpkabooLarge Size/Ghost/Grass/54.0/66.0/70.0/44.0/55.0/46.0/6.0/False
+710.0/PumpkabooSuper Size/Ghost/Grass/59.0/66.0/70.0/44.0/55.0/41.0/6.0/False
+711.0/GourgeistAverage Size/Ghost/Grass/65.0/90.0/122.0/58.0/75.0/84.0/6.0/False
+711.0/GourgeistSmall Size/Ghost/Grass/55.0/85.0/122.0/58.0/75.0/99.0/6.0/False
+711.0/GourgeistLarge Size/Ghost/Grass/75.0/95.0/122.0/58.0/75.0/69.0/6.0/False
+711.0/GourgeistSuper Size/Ghost/Grass/85.0/100.0/122.0/58.0/75.0/54.0/6.0/False
+712.0/Bergmite/Ice//55.0/69.0/85.0/32.0/35.0/28.0/6.0/False
+713.0/Avalugg/Ice//95.0/117.0/184.0/44.0/46.0/28.0/6.0/False
+714.0/Noibat/Flying/Dragon/40.0/30.0/35.0/45.0/40.0/55.0/6.0/False
+715.0/Noivern/Flying/Dragon/85.0/70.0/80.0/97.0/80.0/123.0/6.0/False
+716.0/Xerneas/Fairy//126.0/131.0/95.0/131.0/98.0/99.0/6.0/True
+717.0/Yveltal/Dark/Flying/126.0/131.0/95.0/131.0/98.0/99.0/6.0/True
+718.0/Zygarde50% Forme/Dragon/Ground/108.0/100.0/121.0/81.0/95.0/95.0/6.0/True
+719.0/Diancie/Rock/Fairy/50.0/100.0/150.0/100.0/150.0/50.0/6.0/True
+719.0/DiancieMega Diancie/Rock/Fairy/50.0/160.0/110.0/160.0/110.0/110.0/6.0/True
+720.0/HoopaHoopa Confined/Psychic/Ghost/80.0/110.0/60.0/150.0/130.0/70.0/6.0/True
+720.0/HoopaHoopa Unbound/Psychic/Dark/80.0/160.0/60.0/170.0/130.0/80.0/6.0/True
+721.0/Volcanion/Fire/Water/80.0/110.0/120.0/130.0/90.0/70.0/6.0/True
+////55407.0/63201.0/59074.0/58256.0/57522.0/54622.0//
